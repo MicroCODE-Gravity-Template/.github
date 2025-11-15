@@ -1,4 +1,4 @@
-# Gravity App - Licensed Reference Copy
+# Gravity Template - Licensed Reference Copy
 
 **⚠️ REFERENCE REPOSITORY ONLY - DO NOT USE FOR PRODUCTION**
 
